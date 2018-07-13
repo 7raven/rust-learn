@@ -1,5 +1,5 @@
 # rust-learn
-> #### rust 练习代码
+> #### rust 练习代码 有道翻译api
 ### 涉及到crate：
 - json
 - md5 加密
