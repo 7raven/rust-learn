@@ -1,0 +1,5 @@
+app_id = "应用id"
+app_key = "应用密钥"
+uri = "http://openapi.youdao.com/api"
+from = "auto"
+to = "auto"
